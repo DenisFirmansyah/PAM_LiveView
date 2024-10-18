@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello Toast</string>
+    <string name="count_initial_value">0</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">Button</string>
+    <string name="switch_page">Switch Page</string>
+    <string name="header2">Halaman ke-2</string>
+</resources>
